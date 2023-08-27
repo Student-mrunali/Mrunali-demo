@@ -1,2 +1,4 @@
 # Mrunali-demo
-This is my first gitt hub.
+This is my first gitt repository.
+Author - Mrunali kale 
+I am student.
